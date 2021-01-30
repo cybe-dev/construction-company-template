@@ -308,7 +308,7 @@ const Home = () => {
                 <div className="w-20 h-1 bg-dominant mt-2"></div>
               </h3>
               <div className="flex roboto mb-3">
-                <span className="text-black w-1/5">
+                <span className="text-black w-2/6 lg:w-1/5">
                   <b>Address:</b>
                 </span>
                 <span className="text-black flex-1">
@@ -317,13 +317,13 @@ const Home = () => {
                 </span>
               </div>
               <div className="flex roboto mb-3">
-                <span className="text-black w-1/5">
+                <span className="text-black w-2/6 lg:w-1/5">
                   <b>Phone:</b>
                 </span>
                 <span className="text-black flex-1">+6281271762774</span>
               </div>
               <div className="flex roboto">
-                <span className="text-black w-1/5">
+                <span className="text-black w-2/6 lg:w-1/5">
                   <b>Email:</b>
                 </span>
                 <span className="text-black flex-1">
